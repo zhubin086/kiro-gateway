@@ -28,4 +28,4 @@ requests/
 # Testing
 .pytest_cache/
 .coverage
-htmlcov/
+htmlcov/kiro.log
